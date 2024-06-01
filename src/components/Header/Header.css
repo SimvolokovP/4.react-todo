@@ -1,0 +1,14 @@
+.header {
+    padding: 20px 0;
+}
+
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo h3 {
+    color: #F79E89;
+    text-transform: uppercase;
+}
